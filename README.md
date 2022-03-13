@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3, Svelte, Clean architecture and center div 😝**
 
-- 👨‍💻 All of my projects are available at <a href="https://alejs.dev/" target="_blank">alejs.dev</a>
+- 👨‍💻 All of my projects are available at [alejs.dev](https://alejs.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@alejs.dev](https://medium.com/@alejs.dev)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alejshz07@gmail.com**
 
-- 📄 Know about my experiences [alejs.dev](alejs.dev)
+- 📄 Know about my experiences [alejs.dev](https://alejs.dev)
 
 - ⚡ Fun fact **I like to deploy on fridays 🧐**
 
