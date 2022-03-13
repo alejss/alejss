@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarón Sánchez</h1>
 <h3 align="center">A developer focused on web and best practices.</h3>
 
-- 🔭 I’m currently working on **Porfolio, I change my mind every day 😭 clean architecture and soft skills**
+- 🔭 I’m currently working on ** Golang Skills,  clean architecture and soft skills**
 
 - 🌱 I’m currently learning **Web3, Svelte, Clean architecture and center div 😝**
 
